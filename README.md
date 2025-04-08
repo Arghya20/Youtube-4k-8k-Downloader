@@ -23,8 +23,8 @@ A clean and minimal YouTube 4K/8K video downloader built with Python and Tkinter
   #### 1. Clone the repository
 
 ```bash
-  git clone https://github.com/Arghya20/Youtube-4k/8k-Downloader.git
-  cd Youtube-4k/8k-Downloader
+  git clone https://github.com/Arghya20/Youtube-4k-8k-Downloader.git
+  cd Youtube-4k-8k-Downloader
 ```
 
 #### 	2.	Install dependencies
